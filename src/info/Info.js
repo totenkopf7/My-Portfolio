@@ -5,6 +5,8 @@ import mock3 from "../img/mock3.png";
 import mock4 from "../img/mock4.png";
 import mock5 from "../img/mock5.png";
 import mock6 from "../img/mock6.png";
+import mock7 from "../img/mock7.png"; 
+
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -105,8 +107,8 @@ export const info = {
             emoji: '♟️'
         },
         {
-            label: 'movies',
-            emoji: '🎥'
+            label: 'German Language',
+            emoji: '🇩🇪'
         }
     ],
     portfolio: [
@@ -125,6 +127,15 @@ export const info = {
             showLive: true,
             icons: ["fa fa-info-circle"],
             description: "A real-time chat application built with Flutter and Firebase. Users can register, log in, and send/receive messages instantly. Features include Firebase Authentication for secure user login, Firestore for real-time message storage, and a responsive UI. Demonstrates expertise in Flutter, Firebase, real-time data handling, and user authentication."
+        },
+
+                {
+            title: "Flutter App",
+            // live: "https://guizzapp.netlify.app/",
+            image: mock7,
+            showLive: true,
+            icons: ["fa fa-info-circle"], 
+            description: "A modern Flutter-based application designed for live work reporting and task management. It allows teams to document progress, submit detailed reports, and track completed tasks in real time. With secure data storage and role-based access, managers can monitor operations while employees focus on productivity. Built for efficiency and transparency, the app streamlines workplace communication and data-driven decision making."
         },
         {
             title: "Python Program",
