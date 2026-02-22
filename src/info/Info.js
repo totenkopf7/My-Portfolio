@@ -131,7 +131,7 @@ export const info = {
 
                 {
             title: "Flutter App",
-            // live: "https://guizzapp.netlify.app/",
+            live: "https://www.dropbox.com/scl/fi/on0ffh6xpk6urf5t1pm9t/livework.mp4?rlkey=zfg0et2hmi1zdvagwoa42pqv3&st=39y1zgjq&dl=0",
             image: mock7,
             showLive: true,
             icons: ["fa fa-info-circle"], 
