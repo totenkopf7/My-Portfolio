@@ -113,7 +113,7 @@ export const info = {
     ],
     portfolio: [
         {
-            title: "Flutter App",
+            title: "Guizz",
             live: "https://guizzapp.netlify.app/",
             image: mock1,
             showLive: true,
@@ -121,7 +121,7 @@ export const info = {
             description: "A cross-platform quiz app built with Flutter and Firebase. Participants answer 10 random questions, and qualify for a winners' list. Features include real-time stats, an admin dashboard for winner selection, and engaging animations using Lottie. Demonstrates expertise in Flutter, Firebase, state management (Provider), and responsive UI design."
         },
         {
-            title: "Flutter App",
+            title: "Narx Dark Corner",
             live: "https://narx-dark-corner.web.app/",
             image: mock2,
             showLive: true,
@@ -130,15 +130,24 @@ export const info = {
         },
 
                 {
-            title: "Flutter App",
+            title: "LiveWork View",
             live: "https://www.dropbox.com/scl/fi/on0ffh6xpk6urf5t1pm9t/livework.mp4?rlkey=zfg0et2hmi1zdvagwoa42pqv3&st=39y1zgjq&dl=0",
             image: mock7,
             showLive: true,
             icons: ["fa fa-info-circle"], 
             description: "A modern Flutter-based application designed for live work reporting and task management. It allows teams to document progress, submit detailed reports, and track completed tasks in real time. With secure data storage and role-based access, managers can monitor operations while employees focus on productivity. Built for efficiency and transparency, the app streamlines workplace communication and data-driven decision making."
         },
+
+{
+    title: "Any Scan",
+    live: "https://www.dropbox.com/scl/fi/k3db01r7n23qa08bkuk9a/anyscan.mp4?rlkey=3xyxe2fegta4qmikhk18wmyek&e=1&st=xxgzbyz8&dl=0",
+    image: mock8,
+    showLive: true,
+    icons: ["fa fa-info-circle"],
+    description: "An intelligent web-based image analysis application that allows users to upload any image and receive category-specific insights instantly. Whether the image contains medicine, food, objects, environments, or people, the system analyzes it accordingly and provides structured, relevant information. Designed for accuracy and clarity, Any Scan transforms raw images into meaningful interpretations, helping users better understand what they are seeing through fast, AI-powered analysis."
+},
         {
-            title: "Python Program",
+            title: "Password Manager",
             live: "https://www.dropbox.com/scl/fi/accrsyyu97yzegkbkmm4q/pass-manager.mp4?rlkey=3gmc4y64hm54vct52i4vto2xr&st=yfc0zg78&dl=0",
             source: "https://github.com/totenkopf7/Password-Manager",
             image: mock3,
@@ -148,7 +157,7 @@ export const info = {
             description: "A secure password manager built with Python. Users can log in with credentials, save website/email passwords, generate strong passwords, and search for saved passwords. Demonstrates expertise in Python, data encryption, and secure password management. Highlights problem-solving skills and user-friendly design."
 },
         {
-            title: "Python Program",
+            title: "Youtube Downloader",
             live: "https://www.dropbox.com/scl/fi/dtyugtbah1xy924dxjhxk/youtube-downloader.mp4?rlkey=sxhtgcennozuk94lthljofixb&st=gc7or5uq&dl=0",
             image: mock4,
             showLive: true,
@@ -156,7 +165,7 @@ export const info = {
             description: "A Python-based YouTube Downloader that supports downloading videos and playlists in both MP3 and MP4 formats. Users simply provide the YouTube link, and the program handles the rest. Demonstrates expertise in Python, API integration, and file handling. Highlights problem-solving skills for media downloading and automation."
 },
         {
-            title: "Python Program",
+            title: "Notifier Desktop App",
             live: "https://www.dropbox.com/scl/fi/a9z2v23iwg2tbr5d1vo4t/NotifierApp.mp4?rlkey=ccnhcwh0yw3gac8p8jhq7qhb5&st=h1ijlmix&dl=0",
             source: "https://github.com/totenkopf7/Screen-Notifier",
             image: mock5,
