@@ -121,6 +121,14 @@ export const info = {
             icons: ["fa fa-info-circle"], 
             description: "A cross-platform quiz app built with Flutter and Firebase. Participants answer 10 random questions, and qualify for a winners' list. Features include real-time stats, an admin dashboard for winner selection, and engaging animations using Lottie. Demonstrates expertise in Flutter, Firebase, state management (Provider), and responsive UI design."
         },
+                {
+            title: "News App",
+            live: "https://news24app.netlify.app/",
+            image: mock1,
+            showLive: true,
+            icons: ["fa fa-info-circle"], 
+            description: "Stay informed with a smart and simple AI-powered news experience. Choose your preferred category, language, and topic, then tap “Get News” to instantly receive the latest relevant articles from around the world. Whether you're interested in technology, sports, business, politics, entertainment, or global events, the app delivers personalized news tailored to your interests in seconds. Fast, clean, and easy to use."
+        },
         {
             title: "Narx Dark Corner",
             live: "https://narx-dark-corner.web.app/",
