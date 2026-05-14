@@ -7,6 +7,8 @@ import mock5 from "../img/mock5.png";
 import mock6 from "../img/mock6.png";
 import mock7 from "../img/mock7.png"; 
 import mock8 from "../img/mock8.png"; 
+import mock9 from "../img/mock9.png";
+import mock10 from "../img/mock10.png";
 
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
@@ -122,14 +124,6 @@ export const info = {
             description: "A cross-platform quiz app built with Flutter and Firebase. Participants answer 10 random questions, and qualify for a winners' list. Features include real-time stats, an admin dashboard for winner selection, and engaging animations using Lottie. Demonstrates expertise in Flutter, Firebase, state management (Provider), and responsive UI design."
         },
                 {
-            title: "News App",
-            live: "https://news24app.netlify.app/",
-            image: mock1,
-            showLive: true,
-            icons: ["fa fa-info-circle"], 
-            description: "Stay informed with a smart and simple AI-powered news experience. Choose your preferred category, language, and topic, then tap “Get News” to instantly receive the latest relevant articles from around the world. Whether you're interested in technology, sports, business, politics, entertainment, or global events, the app delivers personalized news tailored to your interests in seconds. Fast, clean, and easy to use."
-        },
-        {
             title: "Narx Dark Corner",
             live: "https://narx-dark-corner.web.app/",
             image: mock2,
@@ -137,6 +131,18 @@ export const info = {
             icons: ["fa fa-info-circle"],
             description: "A real-time chat application built with Flutter and Firebase. Users can register, log in, and send/receive messages instantly. Features include Firebase Authentication for secure user login, Firestore for real-time message storage, and a responsive UI. Demonstrates expertise in Flutter, Firebase, real-time data handling, and user authentication."
         },
+
+                        {
+            title: "Zinar - AI Assistant",
+            live: "https://zinarai.netlify.app/",
+            image: mock10,
+            showLive: true,
+            icons: ["fa fa-info-circle"],
+            description: "Zinar AI is an intelligent 3D avatar assistant specialized in oil & gas operations, refinery processes, and industrial maintenance. Powered by advanced AI, Zinar provides expert-level technical answers about petroleum engineering, drilling, refining, and safety protocols - all through an interactive 3D face interface."
+        },
+
+
+
 
                 {
             title: "LiveWork View",
@@ -146,6 +152,15 @@ export const info = {
             icons: ["fa fa-info-circle"], 
             description: "A modern Flutter-based application designed for live work reporting and task management. It allows teams to document progress, submit detailed reports, and track completed tasks in real time. With secure data storage and role-based access, managers can monitor operations while employees focus on productivity. Built for efficiency and transparency, the app streamlines workplace communication and data-driven decision making."
         },
+                        {
+            title: "News App",
+            live: "https://news24app.netlify.app/",
+            image: mock1,
+            showLive: true,
+            icons: ["fa fa-info-circle"], 
+            description: "Stay informed with a smart and simple AI-powered news experience. Choose your preferred category, language, and topic, then tap “Get News” to instantly receive the latest relevant articles from around the world. Whether you're interested in technology, sports, business, politics, entertainment, or global events, the app delivers personalized news tailored to your interests in seconds. Fast, clean, and easy to use."
+        },
+
 
 {
     title: "Any Scan",
