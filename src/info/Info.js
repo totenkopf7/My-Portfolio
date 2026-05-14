@@ -155,7 +155,7 @@ export const info = {
                         {
             title: "News App",
             live: "https://news24app.netlify.app/",
-            image: mock1,
+            image: mock9,
             showLive: true,
             icons: ["fa fa-info-circle"], 
             description: "Stay informed with a smart and simple AI-powered news experience. Choose your preferred category, language, and topic, then tap “Get News” to instantly receive the latest relevant articles from around the world. Whether you're interested in technology, sports, business, politics, entertainment, or global events, the app delivers personalized news tailored to your interests in seconds. Fast, clean, and easy to use."
