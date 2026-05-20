@@ -117,7 +117,7 @@ export const info = {
     portfolio: [
         {
             title: "Guizz",
-            live: "https://guizzapp.netlify.app/",
+            live: "https://guizzzz.web.app/",
             image: mock1,
             showLive: true,
             icons: ["fa fa-info-circle"], 
@@ -134,7 +134,7 @@ export const info = {
 
                         {
             title: "Zinar - AI Assistant",
-            live: "https://zinarai.netlify.app/",
+            live: "http://zinar-ai.web.app/",
             image: mock10,
             showLive: true,
             icons: ["fa fa-info-circle"],
@@ -151,6 +151,15 @@ export const info = {
             showLive: true,
             icons: ["fa fa-info-circle"], 
             description: "A modern Flutter-based application designed for live work reporting and task management. It allows teams to document progress, submit detailed reports, and track completed tasks in real time. With secure data storage and role-based access, managers can monitor operations while employees focus on productivity. Built for efficiency and transparency, the app streamlines workplace communication and data-driven decision making."
+        },
+
+           {
+            title: "Cyber Quizz",
+            live: "https://cyberquiz.web.app/",
+            image: mock11,
+            showLive: true,
+            icons: ["fa fa-info-circle"], 
+            description: "A cybersecurity quiz app built with Flutter and Firebase that uses Yes/No questions to test users’ knowledge of cybersecurity concepts, best practices, and common threats. After each answer, a check mark appears for correct responses or an X for incorrect ones, while the score updates in real time at the bottom of the screen. The app focuses on simplicity, interactivity, and learning through quick decision-based questions, demonstrating skills in Flutter development, Firebase integration, and cybersecurity education."
         },
                         {
             title: "News App",
