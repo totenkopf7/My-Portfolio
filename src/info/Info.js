@@ -9,6 +9,7 @@ import mock7 from "../img/mock7.png";
 import mock8 from "../img/mock8.png"; 
 import mock9 from "../img/mock9.png";
 import mock10 from "../img/mock10.png";
+import mock11 from "../img/mock11.png";
 
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
