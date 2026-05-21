@@ -155,7 +155,7 @@ export const info = {
         },
 
            {
-            title: "Cyber Quizz",
+            title: "Cyber Quiz",
             live: "https://cyberquiz.web.app/",
             image: mock11,
             showLive: true,
