@@ -10,6 +10,7 @@ import mock8 from "../img/mock8.png";
 import mock9 from "../img/mock9.png";
 import mock10 from "../img/mock10.png";
 import mock11 from "../img/mock11.png";
+import mock12 from "../img/mock12.png";
 
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
@@ -152,6 +153,15 @@ export const info = {
             showLive: true,
             icons: ["fa fa-info-circle"], 
             description: "A modern Flutter-based application designed for live work reporting and task management. It allows teams to document progress, submit detailed reports, and track completed tasks in real time. With secure data storage and role-based access, managers can monitor operations while employees focus on productivity. Built for efficiency and transparency, the app streamlines workplace communication and data-driven decision making."
+        },
+
+                   {
+            title: "Vextract Tool",
+            live: "https://www.dropbox.com/scl/fi/a9b61eld1m8h4vaiwlhks/Vextract.mp4?rlkey=vdv0w2964s1m96yib6mp44rhn&e=1&st=ctupq4c3&dl=0",
+            image: mock12,
+            showLive: true,
+            icons: ["fa fa-info-circle"], 
+            description: "Transform any video into searchable text in seconds. Simply paste a link from YouTube, TikTok, Instagram, Snapchat, X, Facebook, and other supported platforms. The platform automatically downloads the video in high quality, extracts spoken content with advanced speech recognition, and captures on-screen text for a complete transcript. Designed to handle a wide range of accents, dialects, and speaking styles, it helps creators, researchers, journalists, students, and professionals turn video content into accessible, editable text. Free access coming soon."
         },
 
            {
