@@ -43,12 +43,18 @@ function PortfolioBlock({ image, live, source, title, showSource, showLive, icon
          )}
 
          {/* Display Description on Click/Hover */}
-         {showDescription && description && (
-            <Box mt={2} textAlign="center" fontSize="1.2rem" color="text.secondary">
-               {description}
-            </Box>
-         )}
-
+{showDescription && description && (
+   <Box
+      mt={2}
+      textAlign="center"
+      fontSize="1.2rem"
+      sx={{
+         color: 'text.primary'
+      }}
+   >
+      {description}
+   </Box>
+)}
          <Box className={'portfolio'} display={'flex'} flexDirection={'column'} gap={'0.5rem'}
               alignItems={'center'} fontSize={'1.5rem'} py={'2rem'}>
             
