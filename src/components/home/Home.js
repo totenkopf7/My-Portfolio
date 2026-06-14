@@ -24,7 +24,7 @@ export default function Home({innerRef}) {
   width={{ xs: '40vh', md: '45vh' }}
   height={'auto'}
   borderRadius={'50%'}
-  p={'1rem'}
+  p={'1.5rem'}
   mb={{ xs: '1rem', sm: 0 }}
   mr={{ xs: 0, md: '2rem' }}
 />
