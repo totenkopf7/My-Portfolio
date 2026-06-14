@@ -15,12 +15,14 @@ export default function Home({innerRef}) {
 <Box
   className={classNames(Style.avatar, Style.shadowed)}
   alt={'image of developer'}
-  style={{ background: info.gradient }}
+  style={{
+    background: info.gradient,
+    objectFit: 'contain',
+  }}
   component={'img'}
   src={me}
   width={{ xs: '35vh', md: '40vh' }}
-  height={{ xs: '35vh', md: '40vh' }}
-  objectFit="cover"
+  height={'auto'}
   borderRadius={'50%'}
   p={'0.75rem'}
   mb={{ xs: '1rem', sm: 0 }}
