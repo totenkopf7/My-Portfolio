@@ -24,7 +24,7 @@ export default function Home({innerRef}) {
   width={{ xs: '40vh', md: '45vh' }}
   height={{ xs: '40vh', md: '45vh' }}
   borderRadius={'50%'}
-  p={'1.5rem'} // increase padding to make image appear smaller
+  p={'1rem'} // increase padding to make image appear smaller
   mb={{ xs: '1rem', sm: 0 }}
   mr={{ xs: 0, md: '2rem' }}
 />
