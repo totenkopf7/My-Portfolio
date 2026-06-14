@@ -21,10 +21,10 @@ export default function Home({innerRef}) {
   }}
   component={'img'}
   src={me}
-  width={{ xs: '35vh', md: '40vh' }}
+  width={{ xs: '40vh', md: '45vh' }}
   height={'auto'}
   borderRadius={'50%'}
-  p={'0.75rem'}
+  p={'1rem'}
   mb={{ xs: '1rem', sm: 0 }}
   mr={{ xs: 0, md: '2rem' }}
 />
