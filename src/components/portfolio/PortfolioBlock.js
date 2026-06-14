@@ -44,7 +44,7 @@ function PortfolioBlock({ image, live, source, title, showSource, showLive, icon
 
          {/* Display Description on Click/Hover */}
          {showDescription && description && (
-            <Box mt={2} textAlign="center" fontSize="1.2rem" color="text.primary">
+            <Box mt={2} textAlign="center" fontSize="1.2rem" color="text.secondary">
                {description}
             </Box>
          )}
