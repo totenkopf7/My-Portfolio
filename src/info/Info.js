@@ -11,6 +11,7 @@ import mock9 from "../img/mock9.png";
 import mock10 from "../img/mock10.png";
 import mock11 from "../img/mock11.png";
 import mock12 from "../img/mock12.png";
+import mock12 from "../img/mock13.png";
 
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
@@ -117,6 +118,15 @@ export const info = {
         }
     ],
     portfolio: [
+{
+            title: "Gold News Analyzer",
+            live: "https://gold-analyzer.netlify.app/",
+            image: mock13,
+            showLive: true,
+            icons: ["fa fa-info-circle"], 
+            description: "An intelligent Flutter-powered gold trading assistant that continuously monitors financial news, economic releases, and market events from multiple trusted sources. Using AI-driven sentiment analysis and market evaluation, the app predicts potential bullish or bearish movements in gold prices and highlights key factors influencing market direction. Designed for traders and investors, it provides real-time news aggregation, economic event tracking, impact assessments, and actionable insights, enabling users to stay ahead of market trends and make more confident trading decisions."
+        },
+
         {
             title: "Guizz",
             live: "https://guizzzz.web.app/",
