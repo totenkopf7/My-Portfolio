@@ -194,7 +194,8 @@ export const info = {
 
 {
     title: "Any Scan",
-    live: "https://www.dropbox.com/scl/fi/k3db01r7n23qa08bkuk9a/anyscan.mp4?rlkey=3xyxe2fegta4qmikhk18wmyek&e=1&st=xxgzbyz8&dl=0",
+    // live: "https://www.dropbox.com/scl/fi/k3db01r7n23qa08bkuk9a/anyscan.mp4?rlkey=3xyxe2fegta4qmikhk18wmyek&e=1&st=xxgzbyz8&dl=0",
+    live: "https://anyscan.netlify.app/",
     image: mock8,
     showLive: true,
     icons: ["fa fa-info-circle"],
